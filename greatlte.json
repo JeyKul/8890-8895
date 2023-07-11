@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20230711-greatlte-v9.7.zip",
+			"download": "https://github.com/JeyKul/8890-8895/releases/download/crdroid_8895_note8/crDroidAndroid-13.0-20230711-greatlte-v9.7.zip",
+			"timestamp": 1689095730,
+			"md5": "f58b84907281450045d24930b9dfdf9c",
+			"sha256": "a3a7531b8a4af3af644b649058573e4106b50937d34d56aa87ac529940354361",
+			"size": 890022875,
+			"version": "9.7",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

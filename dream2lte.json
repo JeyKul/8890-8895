@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20231002-dream2lte-v9.9.zip",
+			"download": "https://github.com/JeyKul/8890-8895/releases/download/crdroid_8895_S8%2B-9.9/crDroidAndroid-13.0-20231002-dream2lte-v9.9.zip",
+			"timestamp": 1696207128,
+			"md5": "ab62aa8eb084b5f5393da94de9ae8df3",
+			"sha256": "4d06cb3b64bac5e5ec8f3a257586eb1dd3f01d5013dec342047b6ec01d66751f",
+			"size": 894592540,
+			"version": "9.9",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
